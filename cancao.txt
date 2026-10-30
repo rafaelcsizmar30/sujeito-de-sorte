@@ -24,4 +24,4 @@ Mas esse ano eu não morro
 A vida tem um repositório,
 E o merge traz um conflito;
 Os commits que nós criamos
-Ficam no histórico, está escrito.
+Ficam no histórico, fica registrado.
